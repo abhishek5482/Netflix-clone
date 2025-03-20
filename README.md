@@ -23,5 +23,5 @@ The future of this project: <br />
 * Create an authentication flow
 * Add REST API endpoints for every user-related event, such as adding Netflix profiles
 
-## Architecture Diagram 
+
 
