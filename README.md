@@ -25,4 +25,3 @@ The future of this project: <br />
 
 ## Architecture Diagram 
 
-![CloneFlow](https://user-images.githubusercontent.com/36729591/90905326-08c9c400-e39e-11ea-977c-76212f63b2b6.png)
